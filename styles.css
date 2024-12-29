@@ -1,0 +1,14 @@
+body {
+    background: black;
+}
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 50px;
+    font-family: 'lucida';
+    transform: translateX(-50%) translateY(-50%);
+    color: #f9f8f8;
+    background: linear-gradient(45deg, red,blue);
+    letter-spacing: 7px;
+}
